@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,git,js,html,css" alt="Tech Stack" />
 </p>
-- 
+- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact)
 
 
 - 🌱 I’m currently learning **java script**
