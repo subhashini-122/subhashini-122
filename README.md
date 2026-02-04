@@ -2,6 +2,13 @@
 <h3 align="center">Full stack developer| 7+ years of experience designing and delivering enterprise-scale, event-driven applications and enterprise solutions across banking, insurance and e-commerce domains. Proficient in backend development using Java Spring Boot, Python and SQL with strong exposure to frontend integration using React.js, Angular, HTML and UI components for full stack delivery</h3>
 
 - 🔭 I’m currently working on **Software Engineer with 7+ years of experience designing and delivering enterprise-scale, event-driven applications and enterprise solutions across banking, insurance and e-commerce domains. Proficient in backend development using Java Spring Boot, Python and SQL with strong exposure to frontend integration using React.js, Angular, HTML and UI components for full stack delivery**
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,docker,git,linux&perline=7" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **java script**
 
