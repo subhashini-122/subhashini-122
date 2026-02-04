@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm subhashini</h1>
 <h3 align="center">Full stack developer| 7+ years of experience designing and delivering enterprise-scale, event-driven applications and enterprise solutions across banking, insurance and e-commerce domains. Proficient in backend development using Java Spring Boot, Python and SQL with strong exposure to frontend integration using React.js, Angular, HTML and UI components for full stack delivery</h3>
 
-- 🔭 I’m currently working on **Software Engineer with 7+ years of experience designing and delivering enterprise-scale, event-driven applications and enterprise solutions across banking, insurance and e-commerce domains. Proficient in backend development using Java Spring Boot, Python and SQL with strong exposure to frontend integration using React.js, Angular, HTML and UI components for full stack delivery**
-## 🛠️ Tech Stack
+- 🔭 I’m currently working on **Software Engineer with 7+ years of experience designing and delivering enterprise-scale, event-driven applications and enterprise solutions across banking, insurance and e-commerce domains. Proficient in backend development using Java Spring Boot, Python and SQL with strong exposure to frontend integration using React.js, Angular, HTML and UI components for full stack delivery**## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,git,js,html,css" alt="Tech Stack" />
 </p>
+- 
+
 
 - 🌱 I’m currently learning **java script**
 
